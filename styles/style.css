@@ -421,6 +421,9 @@ input::placeholder{
 
 
 @media(max-width:1200px){
+  .block-review{
+    margin-right: 10px;
+  }
   .start-content{
     font-size: 50px;
     padding-top: 80px;
